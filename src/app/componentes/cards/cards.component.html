@@ -1,0 +1,23 @@
+<div class="container d-flex row">
+  <div class="card m-3 mx-5" style="width: 16rem;" *ngFor="let serie of series">
+    <img (click)="edit(serie.id)" [src]="serie.foto" [alt]="serie.nome">
+    <div class="card-body">
+      <h5 class="card-title">{{serie.nome}}</h5>
+      <p class="card-text">
+        {{serie.emissora}}
+        <img (click)="mostrarModal(serie.id)" src="assets/img/delet2.png" style="margin-left:100px; margin-bottom: 8px;">
+      </p>
+    </div>
+  </div>
+</div>
+
+<div *ngIf="isModal">
+  <div class="minha-modal" >
+    <div class="titulo-modal bg-dark text-white">
+      <h5>Aviso</h5>
+    </div>
+    <h6 class="my-4">Deseja realmente adicionar na sua lista?</h6>
+    <button class="btn btn-outline-warning mx-1" (click)="cancelarAcao()">Cancelar</button>
+    <button class="btn btn-warning mx-1" (click)="confirmarAcao()">Confirmar</button>
+  </div>
+</div>

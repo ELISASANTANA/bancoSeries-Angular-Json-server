@@ -1,0 +1,64 @@
+{
+  "Series": [
+    {
+      "id": 1,
+      "nome": "The Haunting of Bly Manor",
+      "emissora": "Netflix",
+      "foto": "https://upload.wikimedia.org/wikipedia/pt/b/b0/The_Haunting_of_Bly_Manor.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "The Office",
+      "emissora": "NBC",
+      "foto": "https://br.web.img3.acsta.net/pictures/14/02/04/13/20/128334.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Dickinson",
+      "emissora": "Apple Tv",
+      "foto": "https://br.web.img2.acsta.net/r_1280_720/pictures/19/09/16/15/27/2267943.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Downton Abbey",
+      "emissora": "ITV",
+      "foto": "https://images-na.ssl-images-amazon.com/images/I/91pNHRaxL8L.jpg"
+    },
+    {
+      "id": 5,
+      "nome": "Friends",
+      "emissora": "NBC",
+      "foto": "https://photos.enjoei.com.br/friends-poster-moldura-a4/1200xN/czM6Ly9waG90b3MuZW5qb2VpLmNvbS5ici9wcm9kdWN0cy80ODMzODc3LzliOTRlZjJkMTg3OTA5MGE0ODdjNjljMGFmZmYwODk0LmpwZw"
+    },
+    {
+      "id": 6,
+      "nome": "Attack on Titan",
+      "emissora": "NHK",
+      "foto": "https://img.elo7.com.br/product/zoom/2C15140/big-poster-anime-attack-on-titan-lo004-tamanho-90x60-cm-attack-on-titan.jpg"
+    },
+    {
+      "id": 7,
+      "nome": "Dark",
+      "emissora": "Netflix",
+      "foto": "https://static.displate.com/280x392/displate/2020-10-26/3d03544006e1953e80d204ccea25e437_d1977184717d5db1516826d72c1007c3.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "Gilmore Girls ",
+      "emissora": "FreeForm",
+      "foto": "https://br.web.img3.acsta.net/pictures/20/10/10/00/21/3745048.jpg"
+    },
+    {
+      "id": 9,
+      "nome": "Arcane",
+      "emissora": "Netflix",
+      "foto": "https://br.web.img3.acsta.net/pictures/21/11/16/14/35/2231192.jpg"
+    },
+    {
+      "id": 10,
+      "nome": "Sherlock",
+      "emissora": "BBC",
+      "foto": "https://uauposters.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/3/9/394820140717-uau-posters-series-seriados-sherlock-holmes.jpg"
+    }
+  ]
+}

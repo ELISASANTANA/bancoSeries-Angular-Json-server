@@ -1,0 +1,45 @@
+header {
+  background-color: #272727;
+  width: 300px;
+  height: 300vh;
+  font-family: ProximaNova;
+}
+
+.logo {
+  width: 150px;
+   margin-left: 60px;
+  margin-top: 40px;;
+}
+
+input {
+  width: 200px;
+  height: 30px;
+  display: flex;
+  margin-left: 10%;
+  outline: none;
+  border: 1px solid #aaaaaa;
+  color: #aaaaaa;
+  background-color:#222222;
+}
+
+nav {
+  margin-top: 50px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color:#aaaaaa;
+  font-size: 18px;
+}
+
+nav ul li {
+  list-style: none;
+  margin-top: 30px;
+}
+
+
+img {
+  width: 20px;
+  margin-right: 10px;
+  margin-bottom: 6px;
+}

@@ -59,6 +59,18 @@
       "nome": "Sherlock",
       "emissora": "BBC",
       "foto": "https://uauposters.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/3/9/394820140717-uau-posters-series-seriados-sherlock-holmes.jpg"
+    },
+    {
+      "id": 11,
+      "nome": "Skam",
+      "emissora": "NRK",
+      "foto": "https://m.media-amazon.com/images/M/MV5BMzc5NmE5ZDItZGQxZC00ZTdhLThlYzktYjE0NWIyZDM3OGRlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": 12,
+      "nome": "MisFits",
+      "emissora": "E4",
+      "foto": "https://m.media-amazon.com/images/I/81WTUnFYNuL._SL1200_.jpg"
     }
   ]
 }

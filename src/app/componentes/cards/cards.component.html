@@ -3,7 +3,7 @@
     <img (click)="edit(serie.id)" [src]="serie.foto" [alt]="serie.nome">
     <div class="card-body">
       <h5 class="card-title">{{serie.nome}}</h5>
-      <p class="card-text">
+      <p class="card-text"> 
         {{serie.emissora}}
         <img (click)="mostrarModal(serie.id)" src="assets/img/delet2.png" style="margin-left:100px; margin-bottom: 8px;">
       </p>
@@ -16,7 +16,7 @@
     <div class="titulo-modal bg-dark text-white">
       <h5>Aviso</h5>
     </div>
-    <h6 class="my-4">Deseja realmente adicionar na sua lista?</h6>
+    <h6 class="my-4">Deseja realmente excluir da sua lista?</h6>
     <button class="btn btn-outline-warning mx-1" (click)="cancelarAcao()">Cancelar</button>
     <button class="btn btn-warning mx-1" (click)="confirmarAcao()">Confirmar</button>
   </div>

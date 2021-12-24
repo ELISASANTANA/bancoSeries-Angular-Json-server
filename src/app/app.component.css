@@ -1,8 +1,11 @@
 section {
   display: flex;
-  /* background-image: url("https://cdn.wallpapersafari.com/60/39/2K7N8n.jpg"); */
 }
 
 app-header {
   position: fixed;
+}
+
+router-outlet {
+  margin-left: 310px;
 }
